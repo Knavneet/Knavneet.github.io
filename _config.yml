@@ -1,5 +1,5 @@
 title: Navneet Kumar 
-#logo: /assets/img/headshot_circle.png
-#description: text below image
+logo: /assets/passport_photo.jpeg
+description: Display Picture
 show_downloads: true
-theme: jekyll-theme-minimal
+theme: jekyll-theme-modernist
