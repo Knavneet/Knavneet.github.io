@@ -2,7 +2,7 @@
 # Bangalore, India 🇮🇳 
 - [Linkedin](https://www.linkedin.com/in/navneet-kumar-432790147/)
   
-#### I am an accomplished Data Scientist with 6 years of experience, proficient in analyzing and interpreting complex data sets using advanced statistical methods and machine learning algorithms. 
+#### I am an accomplished Data Scientist with multiple years of experience, proficient in analyzing and interpreting complex data sets using advanced statistical methods and machine learning algorithms. 
 
 #### With a Master's degree in Signal Processing & Machine Learning, I possess a deep understanding of Generative AI(Large language models), software engineering, Time Series Analysis, and deep learning. 
 
@@ -52,17 +52,17 @@ A scalable and secure REST API that can serve various machine learning models an
 
 ---
 
-# 2. Create Architecture Diagram
+# 2. Create Architecture Diagram for MLOPS
 **Description:**
-Design architecture diagrams to illustrate the system components and their interactions.
+Design architecture diagrams to illustrate the machine learning system components and their interactions.
 
 **Tasks:**
-- Use tools like Lucidchart, Draw.io, or Microsoft Visio to create diagrams.
+- Use tools like Miro, Draw.io, or Microsoft Visio to create diagrams.
 - Include components such as data sources, data processing, model training, model serving, and user interfaces.
 - Highlight data flow, security layers, and infrastructure details (e.g., cloud services, on-premises).
 
 **Skills:**
-- Diagramming tools, system design, cloud architecture (AWS/GCP/Azure)
+- Diagramming tools, system design, cloud architecture (Azure)
 
 **Outcome:**
 Clear and comprehensive architecture diagrams that provide a visual overview of the system.
@@ -290,7 +290,7 @@ A fully functional and optimized data warehouse built on Google BigQuery, incorp
 
 ---
 
-# 13 Comprehensive Guide to Analytics Engineering with dbt and Data Visualization Tools
+# 13. Comprehensive Guide to Analytics Engineering with dbt and Data Visualization Tools
 
 ### Description:
 Build a complete analytics engineering workflow using dbt (data build tool), covering data modeling concepts, ETL vs ELT processes, and dimensional modeling. Implement and deploy dbt projects, and visualize the data using tools like Google Data Studio and Metabase.
@@ -331,7 +331,7 @@ Build a complete analytics engineering workflow using dbt (data build tool), cov
 A comprehensive analytics engineering workflow that includes robust data modeling and transformation using dbt. The project involves setting up, developing, testing, documenting, and deploying dbt projects. Additionally, the project will include data visualization using Google Data Studio and Metabase, enabling effective data analysis and reporting.
 
 
-# 14 Comprehensive Guide to Batch Processing with Apache Spark and Google Cloud Integration
+# 14. Comprehensive Guide to Batch Processing with Apache Spark and Google Cloud Integration
 
 ### Description:
 Build and optimize batch processing workflows using Apache Spark, covering the installation and setup of Spark, data processing with Spark DataFrames, and integration with Google Cloud Storage and BigQuery. This project includes understanding the anatomy of a Spark cluster and performing complex data operations such as GroupBy and Joins.
